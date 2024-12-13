@@ -3,7 +3,7 @@
 
 A brief description of what this project does and who it's for
             
-- First app in Javascript (~~NativeJs~~ Reactjs) here 50% done(https://github.com/falseReach/Tic-tac-toe.js)
+- First app in Javascript (~~NativeJs~~ Reactjs) here 70% done(https://github.com/falseReach/Tic-tac-toe.js)
 - Learn C++
 - Reverse engineer a program
 - Learn CyberSecurity and mod a program without external programs
